@@ -1,0 +1,2 @@
+En este primer proyecto, se llevó a cabo la normalización y limpieza de datos, para posteriormente realizar un análisis detallado de los mismos. Todo el proceso fue ejecutado utilizando herramientas como Excel y Google Sheets, 
+con el objetivo de demostrar habilidades y conocimientos avanzados en el manejo de estas plataformas, así como la capacidad para organizar y procesar información de manera eficiente.
